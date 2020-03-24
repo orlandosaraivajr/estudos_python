@@ -1,3 +1,5 @@
+git clone -b chapter_07 https://github.com/hjwp/book-example.git
+
 Capitulo1 https://github.com/hjwp/book-example/tree/chapter_01
 Capitulo2 https://github.com/hjwp/book-example/tree/chapter_02_unittest
 Capitulo3 https://github.com/hjwp/book-example/tree/chapter_unit_test_first_view
