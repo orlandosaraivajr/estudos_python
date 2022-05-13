@@ -5,6 +5,7 @@ class Order:
     def value(self):
         return self.__value
 
+
 from abc import ABCMeta, abstractmethod
 
 class Frete(metaclass=ABCMeta):
